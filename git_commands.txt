@@ -1,1 +1,2 @@
-git checkout -b branch_name
+git checkout -b branch_name : This copies the content of main branch
+git checkout --orphan branch_name : This creates a empty branch
