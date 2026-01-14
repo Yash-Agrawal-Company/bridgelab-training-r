@@ -1,0 +1,19 @@
+git checkout -b branch_name : This copies the content of main branch
+git checkout --orphan branch_name : This creates a empty branch
+git init : Initialize repository
+git add *js : It will add the file only with the extension js 
+git switch : Switch the branch
+git clone "clone-reposiory link" : It will clone the repository
+git branch : Shows the list of branches with a * mark on the acive barnch
+git log : Shows the log result of all the commits made to the reposity 
+git status : Tells the status of the staging and branch
+git commit -m "message" : Commit changes in the modified file or added file 
+git push -u origin branch_name : It will push the content to the github 
+git restore --staged filename : It will restore the file present in the staging 
+git branch -d branch_name : It will delete the branch
+git help : Shows the commands of git
+git pull origin branch_name : It will pull the content from the branch
+git add . : All the files including hidden in the git
+
+
+Here is some content added to the new branch
